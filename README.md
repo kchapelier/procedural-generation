@@ -54,6 +54,6 @@ Constructive Solid Geometry in javascript. Create complex 3D geometries using Bo
 
 A textbook about procedural content generation in games, fully readable online.
 
-### <a href="https://books.google.be/books?isbn=1558608486" target="_blank">Texturing &amp; model: A procedural approach</a>
+### <a href="https://books.google.be/books?isbn=1558608486" target="_blank">Texturing &amp; modeling: a procedural approach</a>
 
 A classic reference on the subject by pioneers and creators of the featured methods and algorithms (Ken Perlin, Steven Worley, F. Kenton Musgrave, David S. Ebert and Darwyn Peachey).

@@ -26,7 +26,7 @@ Word generation based on n-gram models, and a cli utility to generate said model
 
 Sample random points on the surface of a n-dimensional hypersphere (a sphere of any dimension).
 
-<a href="https://github.com/kchapelier/sphere-random" target="_blank">Fork</a> allowing to use custom random number generators instead of Math.random.
+<a href="https://github.com/kchapelier/sphere-random/tree/rngAsArgument" target="_blank">Fork</a> allowing to use custom random number generators instead of Math.random.
 
 ### <a href="https://github.com/davidbau/seedrandom" target="_blank">davidbau/seedrandom</a>
 

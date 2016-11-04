@@ -48,7 +48,25 @@ Generate a 2D maze using a <a href="http://apollon.issp.u-tokyo.ac.jp/~watanabe/
 
 Constructive Solid Geometry in javascript. Create complex 3D geometries using Boolean operations like union and intersection to combine 3D solids.
 
-## Books
+### <a href="https://github.com/galaxykate/tracery" target="_blank">galaxykate/tracery</a>
+
+Grammar-based english text generation.
+
+## Talks / videos
+
+### <a href="https://www.youtube.com/watch?v=o9RK6O2kOKo" target="_blank">[Unite 2015] A coder's guide to spline-based procedural geometry</a>
+
+Generation of 3D geometries following a 3D Bézier curve.
+
+### <a href="https://www.youtube.com/watch?v=ySTpjT6JYFU">[Unite 2014] Generating Procedural Dungeons in Galak Z</a>
+
+Zach Aikman discusses all the techniques he experimented with to generate the 2D levels of Galak-Z (cellular automata, space partitioning and space filling curves).
+
+## Books / Ebooks
+
+### <a href="http://www.procjam.com/seeds/">Seeds, the PROCJAM Zine</a>
+
+Zine made by the PROCJAM community featuring diverse looks at procedural content generation as a whole and insights on specific pcg methods.
 
 ### <a href="http://pcgbook.com/" target="_blank">pcgbook</a>
 
@@ -57,3 +75,7 @@ A textbook about procedural content generation in games, fully readable online.
 ### <a href="https://books.google.be/books?isbn=1558608486" target="_blank">Texturing &amp; modeling: a procedural approach</a>
 
 A classic reference on the subject by pioneers and creators of the featured methods and algorithms (Ken Perlin, Steven Worley, F. Kenton Musgrave, David S. Ebert and Darwyn Peachey).
+
+### <a href="https://books.google.be/books?isbn=1935182625" target="_blank">Generative Art: A Practical Guide Using Processing</a>
+
+The book presents multiple examples of generative arts and explains the techniques used in some of them in the form of short tutorials (in Processing).

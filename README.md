@@ -1,5 +1,6 @@
 # Procedural generation
 
+
 ## JavaScript modules
 
 ### <a href="https://github.com/kchapelier/convchain" target="_blank">kchapelier/convchain</a>
@@ -52,7 +53,20 @@ Constructive Solid Geometry in javascript. Create complex 3D geometries using Bo
 
 Grammar-based english text generation.
 
+### <a href="https://www.npmjs.com/package/heightmap-contours">hughsk/heightmap-contours</a>
+
+Generate contour meshes from a 2D heightmap.
+
+### <a href="https://www.npmjs.com/package/cave-automata-2d">hughsk/cave-automata-2d</a>
+
+Generate 2D cave layouts using a single parametrized cellular automata rule.
+
+
 ## Talks / videos
+
+### <a href="https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw">The PROCJAM (procedural generation jam) youtube channel</a>
+
+Include playlists for all the talks made for PROCJAM 2014, 2015 and 2016.
 
 ### <a href="https://www.youtube.com/watch?v=o9RK6O2kOKo" target="_blank">[Unite 2015] A coder's guide to spline-based procedural geometry</a>
 
@@ -61,6 +75,14 @@ Generation of 3D geometries following a 3D Bézier curve.
 ### <a href="https://www.youtube.com/watch?v=ySTpjT6JYFU">[Unite 2014] Generating Procedural Dungeons in Galak Z</a>
 
 Zach Aikman discusses all the techniques he experimented with to generate the 2D levels of Galak-Z (cellular automata, space partitioning and space filling curves).
+
+### <a href="https://www.youtube.com/watch?v=GYYuhuarTA0">[Nordic Unite 2013] Procedurally generated content in Sir, You Are Being Hunted</a>
+
+The two members of Big Robots explain the process used to generate the world in Sir, You Are Being Hunted (voronoi-delaunay dual graph, fractal heightmap, etc.) and present some earlier projects (including a classic 2D dungeon generation extended to 3D with elevation, stairs, etc.). The talk also touches subjects such as the player perspective on PCG (replayability, player-drive stories, ...), the necessity of PCG tools for small game studios and how it may impact the development of AI for the NPCs.
+
+### <a href="https://www.youtube.com/watch?v=zPQOHX9hiL0">[Unite 2014] Dungeon of the Endless Rendering and Procedural Content</a>
+
+Sébastien Dubois discusses the issues encountered with the initial dungeon generation algorithm (mostly boiling down to lack of control) and how they fixed it by implementing a template-based generation with multiple layers of abstraction (and an extensive toolset for the artists). The first 25 minutes of the talk is purely about the rendering but is not uninteresting either.
 
 ## Books / Ebooks
 
@@ -79,3 +101,18 @@ A classic reference on the subject by pioneers and creators of the featured meth
 ### <a href="https://books.google.be/books?isbn=1935182625" target="_blank">Generative Art: A Practical Guide Using Processing</a>
 
 The book presents multiple examples of generative arts and explains the techniques used in some of them in the form of short tutorials (in Processing).
+
+
+## Dedicated websites and articles
+
+### <a href="http://procedural-generation.tumblr.com/">Procedural generation Tumblr</a>
+
+### <a href="http://pcg.wikidot.com/">Procedural Content Generation Wiki</a>
+
+### <a href="http://www.roguebasin.com/index.php?title=Articles#Map">RogueBasin's article on developement</a>
+
+### <a href="https://www.reddit.com/r/proceduralgeneration/">Procedural generation subreddit</a>
+
+### <a href="http://inconvergent.net/">The articles of Anders Hoff, aka inconvergent, on generative algorithms</a>
+
+### Martin O'Leary, aka mewo2, articles on <a href="http://mewo2.com/notes/terrain/">2D map generation</a> and <a href="http://mewo2.com/notes/naming-language/">language-driven naming</a>

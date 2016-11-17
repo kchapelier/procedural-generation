@@ -53,11 +53,11 @@ Constructive Solid Geometry in javascript. Create complex 3D geometries using Bo
 
 Grammar-based english text generation.
 
-### <a href="https://www.npmjs.com/package/heightmap-contours">hughsk/heightmap-contours</a>
+### <a href="https://github.com/Jam3/heightmap-contours">hughsk/heightmap-contours</a>
 
 Generate contour meshes from a 2D heightmap.
 
-### <a href="https://www.npmjs.com/package/cave-automata-2d">hughsk/cave-automata-2d</a>
+### <a href="https://github.com/hughsk/cave-automata-2d">hughsk/cave-automata-2d</a>
 
 Generate 2D cave layouts using a single parametrized cellular automata rule.
 
@@ -105,11 +105,11 @@ The book presents multiple examples of generative arts and explains the techniqu
 
 ## Dedicated websites and articles
 
-### <a href="http://procedural-generation.tumblr.com/">Procedural generation Tumblr</a>
+### <a href="http://procedural-generation.tumblr.com/">Procedural Generation Tumblr</a>
 
 ### <a href="http://pcg.wikidot.com/">Procedural Content Generation Wiki</a>
 
-### <a href="http://www.roguebasin.com/index.php?title=Articles#Map">RogueBasin's article on developement</a>
+### <a href="http://www.roguebasin.com/index.php?title=Articles#Map">RogueBasin's articles about development</a>
 
 ### <a href="https://www.reddit.com/r/proceduralgeneration/">Procedural generation subreddit</a>
 

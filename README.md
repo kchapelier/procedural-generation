@@ -61,6 +61,9 @@ Generate contour meshes from a 2D heightmap.
 
 Generate 2D cave layouts using a single parametrized cellular automata rule.
 
+### <a href="https://github.com/gorhill/Javascript-Voronoi">gorhill/voronoi</a>
+
+Javascript implementation of Steven J. Fortune's algorithm to efficiently compute Voronoi diagrams on a 2D plane.
 
 ## Talks / videos
 
@@ -115,4 +118,10 @@ The book presents multiple examples of generative arts and explains the techniqu
 
 ### <a href="http://inconvergent.net/">The articles of Anders Hoff, aka inconvergent, on generative algorithms</a>
 
-### Martin O'Leary, aka mewo2, articles on <a href="http://mewo2.com/notes/terrain/">2D map generation</a> and <a href="http://mewo2.com/notes/naming-language/">language-driven naming</a>
+### The articles of Martin O'Leary, aka mewo2, on <a href="http://mewo2.com/notes/terrain/">2D map generation</a> and <a href="http://mewo2.com/notes/naming-language/">language-driven naming</a>
+
+### <a href="http://tinysubversions.com/spelunkyGen/">Explanation of the template based generator used in Spelunky</a>
+
+### <a href="http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/">Amit Patel's article on 2D polygon map generation with biomes using Voronoi</a>
+
+### <a href="http://experilous.com/1/blog/post/procedural-planet-generation">Andy Gainey's article on procedural planet generation with subdivided icosahedrons, tectonic plates and air currents simulation</a>

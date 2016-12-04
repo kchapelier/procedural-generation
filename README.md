@@ -65,6 +65,19 @@ Generate 2D cave layouts using a single parametrized cellular automata rule.
 
 Javascript implementation of Steven J. Fortune's algorithm to efficiently compute Voronoi diagrams on a 2D plane.
 
+### <a href="https://github.com/nlp-compromise/nlp_compromise">nlp_compromise/nlp_compromise</a>
+
+Lightweight natural language toolkit in Javascript for English with "good-enough" philosophy.
+
+### <a href="https://github.com/NaturalNode/natural">NaturalNode/natural</a>
+
+Heavyweight natural language toolkit in Javascript mainly for English but also with a few utilities for other languages.
+
+### <a href="https://github.com/dhowe/RiTaJS">dhowe/RitaJS</a>
+
+Another heavyweight natural language toolkit in Javascript for English.
+
+
 ## Talks / videos
 
 ### <a href="https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw">The PROCJAM (procedural generation jam) youtube channel</a>
@@ -86,6 +99,7 @@ The two members of Big Robots explain the process used to generate the world in 
 ### <a href="https://www.youtube.com/watch?v=zPQOHX9hiL0">[Unite 2014] Dungeon of the Endless Rendering and Procedural Content</a>
 
 Sébastien Dubois discusses the issues encountered with the initial dungeon generation algorithm (mostly boiling down to lack of control) and how they fixed it by implementing a template-based generation with multiple layers of abstraction (and an extensive toolset for the artists). The first 25 minutes of the talk is purely about the rendering but is not uninteresting either.
+
 
 ## Books / Ebooks
 

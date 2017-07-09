@@ -100,6 +100,9 @@ The two members of Big Robots explain the process used to generate the world in 
 
 Sébastien Dubois discusses the issues encountered with the initial dungeon generation algorithm (mostly boiling down to lack of control) and how they fixed it by implementing a template-based generation with multiple layers of abstraction (and an extensive toolset for the artists). The first 25 minutes of the talk is purely about the rendering but is not uninteresting either.
 
+### <a href="https://www.youtube.com/watch?v=_ooDLiU-o6c">[Digital Dragons 2017] GPU-Based Run-Time Procedural Placement in 'Horizon Zero Dawn'</a>
+
+Jaap van Muijden explains the real-time procedural placement technique implemented in Horizon Zero Dawn on the GPU and how the game artists can use it to paint the world with ecotopes.
 
 ## Books / Ebooks
 

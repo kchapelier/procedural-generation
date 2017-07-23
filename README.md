@@ -142,3 +142,5 @@ The book presents multiple examples of generative arts and explains the techniqu
 ### <a href="http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/">Amit Patel's article on 2D polygon map generation with biomes using Voronoi</a>
 
 ### <a href="http://experilous.com/1/blog/post/procedural-planet-generation">Andy Gainey's article on procedural planet generation with subdivided icosahedrons, tectonic plates and air currents simulation</a>
+
+### <a href="http://alanluo.com/procgen/midterm.html">Generating Art with Code, a handbook to "Little Planet Procedural" by Alan Luo</a> Procedural generation of landscape with canvas' 2d context.

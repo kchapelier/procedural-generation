@@ -53,6 +53,10 @@ Constructive Solid Geometry in javascript. Create complex 3D geometries using Bo
 
 Grammar-based english text generation.
 
+### <a href="https://github.com/sequitur/improv">sequitur/improv</a>
+
+A model-backed generative text library for JavaScript. An alternative to Tracery.
+
 ### <a href="https://github.com/Jam3/heightmap-contours">hughsk/heightmap-contours</a>
 
 Generate contour meshes from a 2D heightmap.
@@ -122,6 +126,9 @@ A classic reference on the subject by pioneers and creators of the featured meth
 
 The book presents multiple examples of generative arts and explains the techniques used in some of them in the form of short tutorials (in Processing).
 
+### <a href="https://www.scratchapixel.com/">Scratchapixel 2.0</a>
+
+Free online ebook on computer graphics featuring articles on value noise, fractal noise, perlin noise and more in the appendix "Procedural Generation of Virtual Worlds". Sample codes are in C++.
 
 ## Dedicated websites and articles
 
@@ -144,3 +151,5 @@ The book presents multiple examples of generative arts and explains the techniqu
 ### <a href="http://experilous.com/1/blog/post/procedural-planet-generation">Andy Gainey's article on procedural planet generation with subdivided icosahedrons, tectonic plates and air currents simulation</a>
 
 ### <a href="http://alanluo.com/procgen/midterm.html">Generating Art with Code, a handbook to "Little Planet Procedural" by Alan Luo</a> Procedural generation of landscape with canvas' 2d context.
+
+### <a href="http://www.procjam.com/tutorials/">Procjam tutorials</a> PCG tutorials commissioned for the Procjam. The batch from 2017 covers topics such as the generation of music, the generation of text following predefined templates and the use of Wave Function Collapse.

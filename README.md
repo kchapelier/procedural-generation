@@ -108,6 +108,15 @@ Sébastien Dubois discusses the issues encountered with the initial dungeon gene
 
 Jaap van Muijden explains the real-time procedural placement technique implemented in Horizon Zero Dawn on the GPU and how the game artists can use it to paint the world with ecotopes.
 
+### <a href="https://www.youtube.com/watch?v=sUjW5zlgeoQ">[IRDC 2016] Markov by Candlelight</a>
+
+Jason Grinblat discusses the use of markov chain to generate books in Caves of Qud, how the specificities of the algorithm matches the context of the game and how to insert meaningful bits of text in markov chains.
+
+### <a href="https://www.youtube.com/watch?v=ClGAApZYIvI">[Roguelike Celebration 2017] Procedurally generated histories in Caves of Qud</a>
+
+Jason Grinblat discusses how the history of the world is generated, how it is told to the player and how it is integrated in the gameplay.
+
+
 ## Books / Ebooks
 
 ### <a href="http://www.procjam.com/seeds/">Seeds, the PROCJAM Zine</a>
@@ -129,6 +138,7 @@ The book presents multiple examples of generative arts and explains the techniqu
 ### <a href="https://www.scratchapixel.com/">Scratchapixel 2.0</a>
 
 Free online ebook on computer graphics featuring articles on value noise, fractal noise, perlin noise and more in the appendix "Procedural Generation of Virtual Worlds". Sample codes are in C++.
+
 
 ## Dedicated websites and articles
 
@@ -153,3 +163,30 @@ Free online ebook on computer graphics featuring articles on value noise, fracta
 ### <a href="http://alanluo.com/procgen/midterm.html">Generating Art with Code, a handbook to "Little Planet Procedural" by Alan Luo</a> Procedural generation of landscape with canvas' 2d context.
 
 ### <a href="http://www.procjam.com/tutorials/">Procjam tutorials</a> PCG tutorials commissioned for the Procjam. The batch from 2017 covers topics such as the generation of music, the generation of text following predefined templates and the use of Wave Function Collapse.
+
+
+## Datasets and corpora
+
+### <a href="https://github.com/dariusk/corpora">dariusk/corpora</a>
+
+A collection of small corpora available as JSON files for easy consumption.
+
+### <a href="https://github.com/caesar0301/awesome-public-datasets">caesar0301/awesome-public-datasets</a>
+
+A collection of "high-quality open datasets in public domains".
+
+### <a href="https://www.reddit.com/r/datasets/">/r/datasets</a>
+
+Subreddit about datasets.
+
+### <a href="https://www.kaggle.com/datasets">Kaggle.com</a>
+
+A collection of open datasets, mostly in CSV. The website requires you to setup an account in order to download datasets.
+
+### <a href="https://catalog.data.gov/dataset">data.gov</a>
+
+The home of the U.S. Government’s open data. Like most government-led open data initiatives, the quality (and even the availability) of the datasets is very variable.
+
+### <a href="http://www.wikipedia.com">Wikipedia</a>
+
+More often than not, a good resource for the pragmatic developer who is willing to copy-paste or write two-liners of JavaScript to scrape the website directly in the browser's console.

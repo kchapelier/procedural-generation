@@ -1,5 +1,7 @@
 # Procedural generation
 
+A mostly javascript-centric resource / links list on procedural content generation (PCG).
+
 
 ## JavaScript modules
 

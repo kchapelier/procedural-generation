@@ -88,7 +88,7 @@ Another heavyweight natural language toolkit in Javascript for English.
 
 ### <a href="https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw">The PROCJAM (procedural generation jam) youtube channel</a>
 
-Include playlists for all the talks made for PROCJAM 2014, 2015 and 2016.
+Include playlists for all the talks made for PROCJAM 2014, 2015, 2016 and 2017.
 
 ### <a href="https://www.youtube.com/watch?v=o9RK6O2kOKo" target="_blank">[Unite 2015] A coder's guide to spline-based procedural geometry</a>
 
@@ -118,6 +118,13 @@ Jason Grinblat discusses the use of markov chain to generate books in Caves of Q
 
 Jason Grinblat discusses how the history of the world is generated, how it is told to the player and how it is integrated in the gameplay.
 
+### <a href="https://www.youtube.com/watch?v=Z6lHExfem6U">[Roguelike Celebration 2018] Machine Learning and Level Generation</a>
+
+Ben Berman discusses advances, as well as his own investigation, in the use of Machine Learning and related algorithms in procedural content generation.
+
+### <a href="https://www.youtube.com/watch?v=Uo9-IcHhq_w">[Roguelike Celebration 2018] Procedural level design in Brogue and beyond</a>
+
+Brian Walker explains how the level generation in Brogue works. From how the rooms are placed to how the "puzzles" are added to bring life to the dungeon. Also discussed are his experiment in making a 2d platformer relying on PCG for its level.
 
 ## Books / Ebooks
 

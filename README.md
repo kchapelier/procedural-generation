@@ -9,6 +9,10 @@ A mostly javascript-centric resource / links list on procedural content generati
 
 Vanilla javascript port of <a href="https://twitter.com/ExUtumno" target="_blank">@ExUtumno</a>'s <a href="https://github.com/mxgmn/ConvChain" target="_blank">ConvChain</a>.
 
+### <a href="https://github.com/kchapelier/convchain-gpu" target="_blank">kchapelier/convchain-gpu</a>
+
+Vanilla javascript/WebGL2 port of <a href="https://twitter.com/ExUtumno" target="_blank">@ExUtumno</a>'s <a href="https://github.com/mxgmn/ConvChain" target="_blank">ConvChain</a>.
+
 ### <a href="https://github.com/kchapelier/wavefunctioncollapse" target="_blank">kchapelier/wavefunctioncollapse</a>
 
 Vanilla javascript port of <a href="https://twitter.com/ExUtumno" target="_blank">@ExUtumno</a>'s <a href="https://github.com/mxgmn/WaveFunctionCollapse" target="_blank">WaveFunctionCollapse</a>.
@@ -144,9 +148,13 @@ A classic reference on the subject by pioneers and creators of the featured meth
 
 The book presents multiple examples of generative arts and explains the techniques used in some of them in the form of short tutorials (in Processing).
 
-### <a href="https://www.scratchapixel.com/">Scratchapixel 2.0</a>
+### <a href="https://www.scratchapixel.com/" target="_blank">Scratchapixel 2.0</a>
 
 Free online ebook on computer graphics featuring articles on value noise, fractal noise, perlin noise and more in the appendix "Procedural Generation of Virtual Worlds". Sample codes are in C++.
+
+### <a href="https://books.google.be/books?isbn=0429948581" target="_blank">Procedural Storytelling in Game Design</a>
+
+Composed of essays written by about 30 contributors and edited by Tanya X. Short and Tarn Adams, this book focuses on the procedural generation of narratives and explains some of the techniques used in existing games (such as Dwarf Fortress, The Sims, Frostpunk, Dungeons & Dragons, etc.) to populate their world with believable characters and backstories.
 
 
 ## Dedicated websites and articles
@@ -173,6 +181,7 @@ Free online ebook on computer graphics featuring articles on value noise, fracta
 
 ### <a href="http://www.procjam.com/tutorials/">Procjam tutorials</a> PCG tutorials commissioned for the Procjam. The batch from 2017 covers topics such as the generation of music, the generation of text following predefined templates and the use of Wave Function Collapse.
 
+### <a href="https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/">When random numbers are too random: Low discrepancy sequences</a> and <a href="http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/">The unreasonable effectiveness of quasirandom sequences</a>. Two articles discussing the generation and properties of low discrepancy sequences (Van Der Corput, Halton, Hammersley, Fibonacci, Golden Ratio, ...) which can be used in some contexts as simple and efficient alternatives to poisson disc sampling or blue noise.
 
 ## Datasets and corpora
 

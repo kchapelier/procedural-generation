@@ -130,6 +130,10 @@ Ben Berman discusses advances, as well as his own investigation, in the use of M
 
 Brian Walker explains how the level generation in Brogue works. From how the rooms are placed to how the "puzzles" are added to bring life to the dungeon. Also discussed are his experiment in making a 2d platformer relying on PCG for its level.
 
+### <a href="https://www.youtube.com/watch?v=fMbK7PYQux4#t=7m37s" target="_blank">[Nordic Game 2019] Texture Synthesis and Remixing from a Single Example</a>
+
+Anastasia Opara discusses the general idea as well as the pros and cons of multiple example-based texture synthesis techniques. The talk also addresses different use cases of this type of techniques and how it compares to other methods.
+
 ## Books / Ebooks
 
 ### <a href="http://www.procjam.com/seeds/">Seeds, the PROCJAM Zine</a>

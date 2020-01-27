@@ -130,9 +130,13 @@ Ben Berman discusses advances, as well as his own investigation, in the use of M
 
 Brian Walker explains how the level generation in Brogue works. From how the rooms are placed to how the "puzzles" are added to bring life to the dungeon. Also discussed are his experiment in making a 2d platformer relying on PCG for its level.
 
-### <a href="https://www.youtube.com/watch?v=fMbK7PYQux4#t=7m37s" target="_blank">[Nordic Game 2019] Texture Synthesis and Remixing from a Single Example</a>
+### <a href="https://www.youtube.com/watch?v=fMbK7PYQux4#t=7m37s">[Nordic Game 2019] Texture Synthesis and Remixing from a Single Example</a>
 
 Anastasia Opara discusses the general idea as well as the pros and cons of multiple example-based texture synthesis techniques. The talk also addresses different use cases of this type of techniques and how it compares to other methods.
+
+### <a href="https://www.youtube.com/watch?v=EXnoHTqO7TE#t=0m15">[Exilecon 2019] Procedural World Generation in Path of Exile</a>
+
+Rhys Abraham explains how the levels are generated in Path of Exile using rooms (hand-designed zones), tile keys and tile-based geometry. He also covers how the rooms can be overlapped to create more organic layouts, using custom rules to handle the tile key conflicts / combinations.
 
 ## Books / Ebooks
 

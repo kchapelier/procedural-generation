@@ -167,10 +167,6 @@ Composed of essays written by about 30 contributors and edited by Tanya X. Short
 
 ## Dedicated websites and articles
 
-### <a href="https://martindevans.me/tags/#procedural-generation-for-dummies-ref">Procedural Generation for Dummies</a>
-
-### <a href="https://odr.chalmers.se/bitstream/20.500.12380/256392/1/256392.pdf">Exploring Procedural Content Generation for a 2D Space Exploration Game</a>
-
 ### <a href="http://procedural-generation.tumblr.com/">Procedural Generation Tumblr</a>
 
 ### <a href="http://pcg.wikidot.com/">Procedural Content Generation Wiki</a>
@@ -194,6 +190,12 @@ Composed of essays written by about 30 contributors and edited by Tanya X. Short
 ### <a href="http://www.procjam.com/tutorials/">Procjam tutorials</a> PCG tutorials commissioned for the Procjam. The batch from 2017 covers topics such as the generation of music, the generation of text following predefined templates and the use of Wave Function Collapse.
 
 ### <a href="https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/">When random numbers are too random: Low discrepancy sequences</a> and <a href="http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/">The unreasonable effectiveness of quasirandom sequences</a>. Two articles discussing the generation and properties of low discrepancy sequences (Van Der Corput, Halton, Hammersley, Fibonacci, Golden Ratio, ...) which can be used in some contexts as simple and efficient alternatives to poisson disc sampling or blue noise.
+
+### <a href="https://martindevans.me/game-development/2016/03/30/Procedural-Generation-For-Dummies-Half-Edge-Geometry/">Procedural Generation For Dummies: Half Edge Geometry, by Martin Evans</a>. 
+
+### <a href="https://odr.chalmers.se/bitstream/20.500.12380/256392/1/256392.pdf">Exploring Procedural Content Generation for a 2D Space Exploration Game</a>. A thesis covering multiple PCG schemes, their application in an actual game and the issues encountered by doing so.
+
+### <a href="https://www.cs.purdue.edu/cgvlab/urban/urban-procedural-modeling.html">Urban Procedural Modeling</a>. A wealth of information on the subject of (modern) city generation.
 
 ## Datasets and corpora
 

@@ -138,6 +138,10 @@ Anastasia Opara discusses the general idea as well as the pros and cons of multi
 
 Rhys Abraham explains how the levels are generated in Path of Exile using rooms (hand-designed zones), tile keys and tile-based geometry. He also covers how the rooms can be overlapped to create more organic layouts, using custom rules to handle the tile key conflicts / combinations.
 
+### <a href="https://www.youtube.com/watch?v=yED9t2tImog">[The Thing 2020] Example-based procedural placement in a dialogue system</a>.
+
+A very well illustrated presentation, by Anastasia Opara, of concepts which can be used to implement procedural placement based on user provided examples. 
+
 ## Books / Ebooks
 
 ### <a href="http://www.procjam.com/seeds/">Seeds, the PROCJAM Zine</a>

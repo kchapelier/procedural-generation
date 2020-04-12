@@ -167,6 +167,10 @@ Composed of essays written by about 30 contributors and edited by Tanya X. Short
 
 ## Dedicated websites and articles
 
+### <a href="https://martindevans.me/tags/#procedural-generation-for-dummies-ref">Procedural Generation for Dummies</a>
+
+### <a href="https://odr.chalmers.se/bitstream/20.500.12380/256392/1/256392.pdf">Exploring Procedural Content Generation for a 2D Space Exploration Game</a>
+
 ### <a href="http://procedural-generation.tumblr.com/">Procedural Generation Tumblr</a>
 
 ### <a href="http://pcg.wikidot.com/">Procedural Content Generation Wiki</a>
